@@ -29,12 +29,12 @@
         function getWallet(){
             return $this->wallet;
         }
-        function getReviews(){
-            return $this->reviews;
-        }
-        // function getAddresses(){
-        //     return $this->addresses;
+        // function getReviews(){
+        //     return $this->reviews;
         // }
+        function getAddresses(){
+            return $this->addresses;
+        }
         function setUsername($username){
             $this->username = $username;
         }

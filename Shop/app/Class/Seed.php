@@ -1,5 +1,5 @@
 <?php
-class Cust {
+class Seed {
     private $name;
     private $brand;
     private $reviews;

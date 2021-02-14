@@ -1,5 +1,5 @@
 <?php
-class Cust {
+class Order {
     private $total;
     private $cust;
     private $id;

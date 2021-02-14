@@ -1,7 +1,3 @@
-total
-cust
-id
-date
-ship_addr
-acc
-seed_order
+seed
+order
+amount

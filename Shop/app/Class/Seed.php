@@ -144,6 +144,9 @@ class Seed {
          $this->seed_orders = $new_seed_orders;
     }
 
+    static function recommend() {}
+
+    static function search() {}
 }
 
 ?>

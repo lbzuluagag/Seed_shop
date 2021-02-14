@@ -73,6 +73,10 @@ class Order {
     function setSeedOrder($new_seed_order) {
          $this->seed_order = $new_seed_order;
     }
+
+    function add_seed($seed) {}
+
+    function del_seed($seed) {}
         
 }
 

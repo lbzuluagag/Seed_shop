@@ -53,6 +53,15 @@ class Cust {
     function setAddresses($addresses){
         $this->addresses = $addresses;
     }
+    function placeOrd(){
+
+    }
+    function cancelOrd(){
+
+    }
+    function placeReturn(){
+
+    }
 
 }
 
